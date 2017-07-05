@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PASSPORT</string>
+    <string name="device_data"></string>
+    <color name="text_colour">#004680</color>
+    <string name="device_instruction_connect"></string>
+    <string name="sample_instruction">PASSPORT_APP</string>
+</resources>
