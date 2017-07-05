@@ -9,7 +9,7 @@
     <application android:icon="@drawable/luncher"
         android:label="@string/app_name"
         android:theme="@style/Theme.AppCompat.NoActionBar"
-        android:debuggable="true">
+       >
 
         <activity android:name=".AccessOCRSampleCodeActivity"
                   android:label="@string/app_name"
